@@ -1,0 +1,8 @@
+-keep class com.antitheft.app.** { *; }
+-keep class * extends android.content.BroadcastReceiver { *; }
+-keep class * extends android.app.Service { *; }
+-keep class * extends android.app.admin.DeviceAdminReceiver { *; }
+-keep class * extends androidx.room.Entity { *; }
+-dontwarn javax.mail.**
+-dontwarn com.sun.mail.**
+-dontwarn com.google.android.gms.**
